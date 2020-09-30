@@ -1,0 +1,17 @@
+{
+  "name": "@textabledev/langs-flags-list",
+  "version": "1.0.0",
+  "description": "List of all languages assigned to flags",
+  "repository": "https://github.com/martinsik/langs-flags-list.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "localization",
+    "locale",
+    "internationalization"
+  ],
+  "author": "Martin Sikora",
+  "license": "GPL-3.0-or-later"
+}
